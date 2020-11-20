@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redamancy - We are all in the gutter, but some of us are looking at the stars.</title>
+    <link>http://caaby.github.io/</link>
+    <description>Recent content on Redamancy - We are all in the gutter, but some of us are looking at the stars.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Aug 2020 01:37:56 +0800</lastBuildDate><atom:link href="http://caaby.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://caaby.github.io/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://caaby.github.io/about/</guid>
+      <description>星星是银河递给月亮的情书 你是世界赠予我的恩赐 这里记录了 @山山而川 和 @Sally 相爱的一些小事 相信我们还会留下更多美好的回忆 Read more&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>[诗词] 《春江花月夜》</title>
+      <link>http://caaby.github.io/post/first/</link>
+      <pubDate>Sun, 30 Aug 2020 01:37:56 +0800</pubDate>
+      
+      <guid>http://caaby.github.io/post/first/</guid>
+      <description>《春江花月夜》是唐代诗人张若虚的诗作。此诗沿用陈隋乐府旧题，运用富有生活气息的清丽之笔，以月为主体，以江为场景，描绘了一幅幽美邈远、惝恍迷离</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Redamancy - We are all in the gutter, but some of us are looking at the stars.</title>
+    <link>http://caaby.github.io/tags/</link>
+    <description>Recent content in Tags on Redamancy - We are all in the gutter, but some of us are looking at the stars.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Aug 2020 01:37:56 +0800</lastBuildDate><atom:link href="http://caaby.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中文</title>
+      <link>http://caaby.github.io/tags/%E4%B8%AD%E6%96%87/</link>
+      <pubDate>Sun, 30 Aug 2020 01:37:56 +0800</pubDate>
+      
+      <guid>http://caaby.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>诗词</title>
+      <link>http://caaby.github.io/tags/%E8%AF%97%E8%AF%8D/</link>
+      <pubDate>Sun, 30 Aug 2020 01:37:56 +0800</pubDate>
+      
+      <guid>http://caaby.github.io/tags/%E8%AF%97%E8%AF%8D/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
