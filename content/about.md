@@ -19,6 +19,8 @@ weight: 50
 
 <br/>
 
-<a href="/">Read more...</a>
+<br/>
+
+<br/>
 
 
